@@ -1,6 +1,6 @@
 #include <wiringPi.h>
 
-const int ledPin1 = 5;
+const int ledPin1 = 17;
 
 void blinkLed(int pin);
 
